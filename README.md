@@ -17,7 +17,13 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the attrition rate of Employee in an E-commerce company. By analyzing various aspects of the Employee data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the Employees' satisfaction rate.
+This data analysis project aims to provide insights into the attrition rate of Employee in an E-commerce company. By analyzing various aspects of the Employee data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the Employees' satisfaction and attrition rate.
+
+![Employee-attrition-chart](https://github.com/user-attachments/assets/9ebcfd73-54d9-4f08-9e78-d5fdad1efac7)
+
+
+
+
 
 ### Data Sources
 

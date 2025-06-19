@@ -68,14 +68,14 @@ The analysis results are summarized as follows;
 4. The least and highest paid employees are the Co-ordinator from the HR department and Analyst from the Sales department respectively.
 5. The relationship between the monthly income and attrition is non linear as there is no direct relationship.
 6. Employees of the Finance department have the highest job satisfaction and the lowest attrition. However, the Sales department has the highest attrition but the second highest job satisfaction.
-7. Based on marital status, Divorced Employees has the highest attrition.
+7. Based on marital status, Divorced Employees have the highest attrition.
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions;
 
-- Focus on reducing work load for each job role which may increase work-life balance and job satisfaction.
-- Review the monthly incomes of the least paid or poorly paid employees.
+- Focus on reducing work load for each job role which in turn may increase work-life balance and job satisfaction.
+- Review the monthly incomes of the least paid and poorly paid employees.
 
 ### Limitations
 
